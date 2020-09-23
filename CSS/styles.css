@@ -1,0 +1,169 @@
+body{
+  margin: 100px;
+  width: 100%;
+  height: 100%
+}
+.introduction h1{
+  font-size: 48px;
+  font-weight: bold;
+  font-family:'Spartan', sans-serif;
+  color: hsl(300, 43%, 22%);
+  width: 400px;
+  height: 100px;
+}
+.introduction p{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 25px;
+  text-align: left;
+  letter-spacing: -0.5px;
+  color: #927b91;
+  font-family:'Spartan', sans-serif;
+  width: 450px;
+  height: 200px;
+  position: relative;
+  top: 40px;
+}
+.top-picture{
+  position: relative;
+  bottom: 450px;
+  right: 170px
+}
+.Reviews{
+  font-size: 12px;
+  font-weight: bold;
+  color: hsl(300, 43%, 22%);
+  letter-spacing: normal;
+  font-family:'Spartan', sans-serif;
+}
+.Review-1{
+  background-color: hsl(300, 24%, 96%);
+  width: 350px;
+  height: 30px;
+  padding-top: 10px;
+  padding-bottom: 1px;
+  padding-left: 3px;
+  position: relative;
+  left: 520px;
+  bottom: 700px;
+  border-radius: 5px;
+  text-align: center;
+
+}
+.Review-1 p{
+  margin-top: 5px;
+  width: 330px;
+}
+.Review-2{
+  background-color: hsl(300, 24%, 96%);
+  width: 350px;
+  height: 30px;
+  padding-top: 10px;
+  padding-bottom: 1px;
+  padding-left: 3px;
+  position: relative;
+  left: 570px;
+  bottom: 680px;
+  border-radius: 5px;
+  text-align: center;
+}
+.Review-2 p{
+  margin-top: 5px;
+  width: 330px;
+}
+.Review-3{
+  background-color: hsl(300, 24%, 96%);
+  width: 360px;
+  height: 30px;
+  padding-top: 10px;
+  padding-bottom: 1px;
+  padding-left: 3px;
+  position: relative;
+  left: 620px;
+  bottom: 660px;
+  border-radius: 5px;
+  text-align: center;
+}
+.Review-3 p{
+  margin-top: 5px;
+  width: 330px;
+}
+.stars{
+  float: left;
+  margin-left: 20px;
+}
+.Container-1{
+  width: 300px;
+  height: 200px;
+  background-color: hsl(300, 43%, 22%);
+  display: inline-block;
+  position: relative;
+  bottom: 530px;
+  border-radius: 15px;
+}
+.Container-2{
+  width: 300px;
+  height: 200px;
+  background-color: hsl(300, 43%, 22%);
+  display: inline-block;
+  position: relative;
+  bottom: 510px;
+  left: 20px;
+  border-radius: 15px;
+}
+.Container-3{
+  width: 300px;
+  height: 200px;
+  background-color: hsl(300, 43%, 22%);
+  display: inline-block;
+  position: relative;
+  bottom: 490px;
+  left: 40px;
+  border-radius: 15px;
+}
+.Name{
+  color: hsl(0, 0%, 100%);
+  font-size: 12px;
+  font-weight: bold;
+  font-family:'Spartan', sans-serif;
+  margin-top: 30px;
+  position: relative;
+  right: 100px;
+  float: right;
+}
+.verified{
+  color: hsl(333, 80%, 67%);
+  font-size: 12px;
+  font-family:'Spartan', sans-serif;
+  margin-top: 40px;
+  float: right;
+  position: relative;
+  top: 10px;
+  right: 10px;
+}
+.comment{
+  color: hsl(0, 0%, 100%);
+  font-size: 12px;
+  font-weight: 0px;
+  font-family:'Spartan';
+  padding-left: 20px;
+  margin-top: 100px;
+}
+.Colton-image{
+  margin: 10px;
+  float: left;
+}
+.Irene-image{
+  margin: 10px;
+  float: left;
+}
+.Anne-image{
+  margin: 10px;
+  float: left;
+}
+.bottom-image{
+  position: relative;
+  bottom: 1000px;
+  left: 30px;
+}
